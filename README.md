@@ -50,7 +50,3 @@ star 后， 可以在个人资料里面找到自己的 star 仓库，方便下�
 
 
 
-![反](https://user-images.githubusercontent.com/115513857/207840199-2285b1eb-2c7d-4bd9-bb33-2aa7aaadc47b.jpg)
-
-
-
